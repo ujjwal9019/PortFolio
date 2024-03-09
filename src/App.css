@@ -1,0 +1,7 @@
+.github-calendar {
+    margin: auto; /* Center the calendar horizontally */
+    text-align: center; /* Center the calendar items within the container */
+  }
+  #project-padding{
+    padding-left: 10px;
+  }
