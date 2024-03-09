@@ -38,7 +38,7 @@ Watsapp Now
 
 
 
-            <div className="flex flex-wrap gap-6">
+            <div className="flex flex-wrap gap-6" id="project">
                 <div  >
 <Project  name = "Blogs" 
  description = "Tech Stack : React , Tailwind , Appwrite , Vercel.   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implemented dynamic features allowing users to create, delete, and update their blogs. The homepage dynamically

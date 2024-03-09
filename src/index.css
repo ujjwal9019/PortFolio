@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+@media only screen and (max-width: 767px) {
+    /* Your styles for mobile screens go here */
+    #project{
+padding-left: 30px;
+    }
+  }
