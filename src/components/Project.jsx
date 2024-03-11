@@ -6,7 +6,7 @@ function Project(props) {
     return (
 
 
-      <div class="w-[300px] rounded-md border">
+      <div class="w-[300px] rounded-md border ">
 <Link to={props.projectLink}>
 
   <img

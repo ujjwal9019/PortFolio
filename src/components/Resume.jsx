@@ -2,7 +2,7 @@ import React from 'react'
 
 const Resume= ({ pdfUrl }) => {
     return (
-      <div className="pdf-viewer">
+      <div className="pdf-viewer ">
         <iframe
           title="PDF Viewer"
           src= "/Ujjwal_Saxena_Resume.pdf"
