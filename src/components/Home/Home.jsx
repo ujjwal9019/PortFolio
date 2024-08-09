@@ -12,7 +12,7 @@ export default function Home() {
                             Hi I am Ujjwal Saxena
                             <br />
                             <br />
-                            <span className="hidden sm:block font-sans  text-sm">Passionate web developer with expertise in crafting intricate Frontend and Backend solutions. Elevating digital experiences through innovative and seamless website development. Let's bring your vision to life!</span>
+                            <span className="hidden sm:block font-sans  text-sm">Passionate web developer with expertise in crafting intricate Frontend and Backend solutions, including extensive experience in Java Spring Boot for robust backend development. Skilled in building scalable, user-friendly, and enterprise-level applications. Elevating digital experiences through innovative and seamless website development. Let's bring your vision to life.</span>
                         </h2>
 <br />
                         <Link
@@ -29,7 +29,7 @@ Whatsapp Now
                 </div>
 
                 <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full  ">
-                    <img className="w-96" src="https://i.ibb.co/5BCcDYB/Remote2.png" alt="image1" />
+                    <img className="w-96" src="..\public\Ujjwal_Image.png" alt="image1" />
                 </div>
             </aside>
 
@@ -40,11 +40,11 @@ Whatsapp Now
 
             <div className="flex flex-wrap gap-6" id="project">
                 <div  >
-<Project  name = "Blogs" 
- description = "Tech Stack : React , Tailwind , Appwrite , Vercel.   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implemented dynamic features allowing users to create, delete, and update their blogs. The homepage dynamically
-showcases posts from various users  creating an engaging and fully interactive environment" 
-image="/Blogs.jpg" 
-projectLink = "https://appwriteblogs-smoky.vercel.app/" 
+<Project  name = "FilmForia" 
+ description = "Tech Stack : React , Spring Boot , Spring Security , MySql , Spring Jpa   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implemented JWT Authentication through which user can register than login And without register user can not have access to view film blogs   . User can read the blogs of films can update , delete film blogs and admin can add the film blogs  Through Rest Api
+" 
+image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3MTfsyWPf2Twd816k39toiFEeJfUtym3yEQ&s" 
+projectLink = "https://github.com/ujjwal9019/Movie-Booking-System-" 
 githublink = "https://github.com/ujjwal9019/React-Major-Project/tree/main/blogs" />
 
 </div>
@@ -78,6 +78,20 @@ image="/crypto.jpg"
       
       
       </div>
+
+
+      <div>
+      <Project  name = "HackerRank Automation"
+       description = "Tech Stack : Node js, Puppeteer  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  Automate HackerRank tasks: Script automates tasks from login to solving algorithms.
+ Opens Chromium browser: Launches browser, logs in with credentials.
+ Solves Algorithm Questions: Navigates to algorithm section, solves a chosen question.
+ Passes Test Cases: Validates solution, closes browser upon completion.
+" 
+image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvD2K-n2_MISCt9k-FBulpy1d99dk3fFwDRQ&s"
+ projectLink = "https://www.youtube.com/watch?v=DkSJhTD8Fjc"
+  githublink = "https://github.com/ujjwal9019/React-Major-Project/tree/main/blogs" />
+ 
+      </div>  
 
          
       </div>
