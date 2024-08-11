@@ -32,7 +32,7 @@ Whatsapp Now
                     <img className="w-96" src="..\Ujjwal_Image.png" alt="image1" />
                 </div>
             </aside>
-
+/
             <h2 className="text-4xl text-center font-bold sm:text-5xl">Projects</h2>
             <br />
 
