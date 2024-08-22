@@ -40,7 +40,7 @@ Whatsapp Now
 
             <div className="flex flex-wrap gap-6" id="project">
                 <div  >
-<Project  name = "FilmForia" 
+<Project  name = "Movie-Verse" 
  description = "Tech Stack : React , Spring Boot , Spring Security , MySql , Spring Jpa   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implemented JWT Authentication through which user can register than login And without register user can not have access to view film blogs   . User can read the blogs of films can update , delete film blogs and admin can add the film blogs  Through Rest Api
 " 
 image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3MTfsyWPf2Twd816k39toiFEeJfUtym3yEQ&s" 
