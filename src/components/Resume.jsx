@@ -5,7 +5,7 @@ const Resume= ({ pdfUrl }) => {
       <div className="pdf-viewer ">
         <iframe
           title="PDF Viewer"
-          src= "/Ujjwal.pdf"
+          src= "/UjjwalResume.pdf"
           width="100%"
           height="600px"
           frameBorder="0"

@@ -16,8 +16,8 @@ export default function About() {
                         </h2>
                         <p className="mt-6 text-gray-600">
                          
-Hello, I'm Ujjwal Saxena, a dedicated professional with a Bachelor's degree in Technology from GLA University, Mathura. My journey in the tech industry began with a rewarding experience as a Full Stack Developer at Fincrif, where I contributed my skills and knowledge for seven months. Now, I am eagerly seeking new opportunities to specialize in Front-End development, particularly utilizing the React framework and the MERN stack. My passion for creating seamless and visually appealing user interfaces, combined with my solid foundation in technology, makes me poised for success in the dynamic world of web development. I am excited about the prospect of contributing my skills to innovative projects and further enhancing my expertise in the front-end realm.
 
+                        Hello, I'm Ujjwal Saxena, a dedicated professional with a Bachelor's degree in Technology from GLA University, Mathura. My journey in the tech industry began with a rewarding experience as a Full Stack Developer at Fincrif, where I contributed my skills and knowledge for seven months. Now, I am eagerly seeking new opportunities to specialize in Product Management, focusing on delivering user-centric and impactful solutions. My passion for bridging technical expertise with business strategy, combined with my strong foundation in technology, makes me poised for success in the dynamic world of product development. I am excited about the prospect of contributing my skills to innovative projects and further enhancing my expertise in product management.
                         </p>
                     </div>
                 </div>

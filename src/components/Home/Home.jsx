@@ -2,6 +2,7 @@ import React from "react";
 import {Link , NavLink} from 'react-router-dom'
 import Project from "../Project";
 import Resume from "../Resume";
+
 export default function Home() {
     return (
         <div className="mx-auto w-full max-w-7xl ">
@@ -12,7 +13,7 @@ export default function Home() {
                             Hi I am Ujjwal Saxena
                             <br />
                             <br />
-                            <span className="hidden sm:block font-sans  text-sm">Passionate web developer with expertise in crafting intricate Frontend and Backend solutions, including extensive experience in Java Spring Boot for robust backend development. Skilled in building scalable, user-friendly, and enterprise-level applications. Elevating digital experiences through innovative and seamless website development. Let's bring your vision to life.</span>
+                            <span className="hidden sm:block font-sans  text-sm">Passionate product enthusiast with a knack for transforming ideas into impactful user-centric solutions. Experienced in collaborating with cross-functional teams and leveraging technical expertise to drive product development and strategy. Skilled in aligning business goals with user needs to deliver seamless and innovative digital experiences. Let’s work together to bring meaningful products to life!</span>
                         </h2>
 <br />
                         <Link
